@@ -1,0 +1,71 @@
+ body{
+      font-size: larger;
+      background-color:rgb(190, 183, 183) ;
+      border: solid;
+      margin: 0;
+    }
+    .intro{
+      text-align: center;
+      font-style:normal;
+      color: #41464b;
+    }
+h2 {
+      color: indigo;
+      font-style: italic;
+      margin-left: 20px;
+    }
+     h1 {
+      color:rgb(5, 16, 24);
+     text-align: center;
+    }
+   
+  mark{
+    background-color: lightgoldenrodyellow;
+  }
+ table{
+    width: 550px;
+    height: 200px;
+    text-align: center;
+     margin-left: 30px;
+     border-spacing: 0;
+}
+th{
+    width: 30px;
+    height: 10px;
+    background-color: rgb(231, 231, 189);
+
+}
+
+td{
+background-color: lightblue;
+padding: 3px;
+}
+
+a{
+  color:blue;
+}
+.all{
+    margin-left:100px ;
+    width: 75%;
+    border: solid 2px;
+
+}
+
+
+.odd{
+    background-color:#F9FAFB;
+}
+.even{
+    background-color:bisque;
+}
+header{
+    background-color: #6582d1;
+    border-radius: 20px 83px 0 0;
+    width: 75%;
+    align-content: center;
+    margin-left: 100px;
+    margin-top: 50px;
+        border: solid 2px #6582d1 ;
+
+}
+
